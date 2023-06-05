@@ -1,6 +1,6 @@
 # ViteJS ⚡️ React ⚛️ App Template
 
-A ViteJS template for React projects, with ESLint, Prettier, Jest, Testing Library, TailwindCSS and Storybook.
+A ViteJS template for React projects, with ESLint, Prettier, Vitest, Testing Library, TailwindCSS and Storybook.
 
 ## Running
 
